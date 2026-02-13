@@ -41,7 +41,7 @@ export function AmenitiesPreview() {
       {/* Background Texture */}
       <div className="absolute inset-0 opacity-5">
         <Image
-          src="/images/garden.svg"
+          src="/images/garden.png"
           alt=""
           fill
           className="object-cover"

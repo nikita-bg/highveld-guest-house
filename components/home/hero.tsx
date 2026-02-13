@@ -15,7 +15,7 @@ export function Hero() {
     <section className="relative h-screen w-full overflow-hidden">
       {/* Background Image */}
       <Image
-        src="/images/hero.svg"
+        src="/images/hero.png"
         alt="Highveld Guest House exterior at golden hour"
         fill
         className="object-cover"

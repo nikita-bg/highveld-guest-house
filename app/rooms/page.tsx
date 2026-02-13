@@ -29,7 +29,7 @@ const rooms = [
     tagline: "Comfortable & Cozy",
     description:
       "Our Standard Room is a warm, inviting retreat designed for solo travellers or couples. Featuring African-inspired decor with earth tones, a comfortable queen bed dressed in crisp white linen, and a modern en-suite bathroom. Everything you need for a restful night in the Highveld.",
-    image: "/images/room-standard.svg",
+    image: "/images/room-standard.png",
     size: "22m\u00B2",
     guests: "2 Guests",
     bed: "Queen Bed",
@@ -49,7 +49,7 @@ const rooms = [
     tagline: "Elevated Luxury",
     description:
       "Step into elevated comfort with our Deluxe Room. Enjoy a spacious king-size bed, a private balcony overlooking our gardens, and premium amenities including a mini bar and Nespresso machine. Designed for guests who appreciate the finer details of hospitality.",
-    image: "/images/room-deluxe.svg",
+    image: "/images/room-deluxe.png",
     size: "32m\u00B2",
     guests: "2 Guests",
     bed: "King Bed",
@@ -69,7 +69,7 @@ const rooms = [
     tagline: "Space for Everyone",
     description:
       "Our Family Suite is your home away from home. With two separate bedrooms, a comfortable lounge area, and a kitchenette, it is ideal for families or groups needing extra space. African art adorns the walls while modern comforts ensure a restful stay for all.",
-    image: "/images/room-family.svg",
+    image: "/images/room-family.png",
     size: "48m\u00B2",
     guests: "4 Guests",
     bed: "1 King + 2 Single Beds",
@@ -93,7 +93,7 @@ export default function RoomsPage() {
       {/* Page Header */}
       <section className="relative flex min-h-[50vh] items-center justify-center bg-[#2A1A0E] pt-20">
         <Image
-          src="/images/room-deluxe.svg"
+          src="/images/room-deluxe.png"
           alt=""
           fill
           className="object-cover opacity-30"

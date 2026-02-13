@@ -7,7 +7,7 @@ export function BraaiSection() {
         {/* Image */}
         <div className="relative aspect-[4/3] lg:aspect-auto lg:min-h-[600px]">
           <Image
-            src="/images/braai.svg"
+            src="/images/braai.png"
             alt="Traditional South African braai area at Highveld Guest House"
             fill
             className="object-cover"

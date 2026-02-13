@@ -28,7 +28,7 @@ export function LocationHighlight() {
           {/* Image */}
           <div className="relative aspect-[4/3] overflow-hidden lg:aspect-[3/4]">
             <Image
-              src="/images/garden.svg"
+              src="/images/garden.png"
               alt="Lush gardens at Highveld Guest House"
               fill
               className="object-cover"

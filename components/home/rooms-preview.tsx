@@ -8,7 +8,7 @@ const rooms = [
     price: "R650",
     description:
       "A comfortable retreat with warm African-inspired decor, perfect for solo travellers or couples seeking a restful stay.",
-    image: "/images/room-standard.svg",
+    image: "/images/room-standard.png",
     features: ["Queen Bed", "En-suite Bathroom", "Free WiFi"],
   },
   {
@@ -16,7 +16,7 @@ const rooms = [
     price: "R950",
     description:
       "Spacious luxury with a private balcony overlooking our gardens. Elevated comfort with premium amenities for a memorable stay.",
-    image: "/images/room-deluxe.svg",
+    image: "/images/room-deluxe.png",
     features: ["King Bed", "Private Balcony", "Mini Bar"],
   },
   {
@@ -24,7 +24,7 @@ const rooms = [
     price: "R1,400",
     description:
       "Generous living space with separate sleeping areas, ideal for families. Your home away from home in the heart of the Highveld.",
-    image: "/images/room-family.svg",
+    image: "/images/room-family.png",
     features: ["2 Bedrooms", "Lounge Area", "Kitchenette"],
   },
 ]

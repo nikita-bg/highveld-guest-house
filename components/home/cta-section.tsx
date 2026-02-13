@@ -5,7 +5,7 @@ export function CTASection() {
     <section className="relative overflow-hidden py-24 lg:py-32">
       {/* Background */}
       <Image
-        src="/images/pool.svg"
+        src="/images/pool.png"
         alt=""
         fill
         className="object-cover"
